@@ -6,4 +6,4 @@ Check out [my website](https://af.codes)!
 
 ---
 
-[Twitter][https://twitter.com/afollestad) | [Instagram][https://instagram.com/afollestad)
+[Twitter](https://twitter.com/afollestad) | [Instagram](https://instagram.com/afollestad)
