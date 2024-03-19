@@ -1,4 +1,4 @@
-### Hey, I'm Aidan 👋 (with an 'a' 😉)
+### Hey, I'm Aidan 👋
 
 *Currently a Staff (L6) Android/iOS Engineer @ [Square](https://github.com/square).*
 
